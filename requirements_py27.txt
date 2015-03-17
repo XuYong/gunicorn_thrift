@@ -1,5 +1,5 @@
 setproctitle==1.1.8
-gevent==1.1
+git+git://github.com/surfly/gevent.git#egg=gevent
 gunicorn==19.1.1
 wsgiref==0.1.2
 thrift>=0.9.0
